@@ -14,10 +14,15 @@ public class CheckOverflowExample2 {
 		// 1. 직접 곱하기를 수행 : num3 = num1 * num2
 		// 2. 메소드를 사용
 		num3 = safeMultiple(num1, num2);
+		
+		if (num3 == 0) {
+		System.out.println("너무 큰 값 입니다.");
+		}
+		
 	}
 
 	private static int safeMultiple(int num1, int num2) {
-		long l = num1 * num2;
+		long l = (long) num1 * num2;
 		if(l > Integer.MAX_VALUE) {
 //			곱하기를 skip
 			return 0;
