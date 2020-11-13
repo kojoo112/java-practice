@@ -3,6 +3,7 @@ package ch03;
 public class ShiftOp2 {
 
 	public static void main(String[] args) {
+		
 		int num1 = 0x12345678;
 		System.out.printf("num1=%x\n", num1);
 		int num2 = num1 << 4;	// 왼쪽으로 4비트 이동
