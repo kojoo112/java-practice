@@ -9,14 +9,14 @@ package ch03;
 public class CharCon {
 
 	public static void main(String[] args) {
-	
-		String str1 = "java" + 8;	// "Java" + "8"
-		System.out.println(str1);	// "Java8"
+
+		String str1 = "java" + 8; // "Java" + "8"
+		System.out.println(str1); // "Java8"
 		String str2 = "Oracle" + 4 + 5; // Oracle45
 		System.out.println(str2);
-		String str3 = "Oracle" + (4 + 5);	//Oracle9
+		String str3 = "Oracle" + (4 + 5); // Oracle9
 		System.out.println(str3);
-		String str4 = 4 + 5 + "apple";	// 9apple
+		String str4 = 4 + 5 + "apple"; // 9apple
 		System.out.println(str4);
 
 	}

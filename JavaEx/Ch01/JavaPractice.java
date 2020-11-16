@@ -1,9 +1,9 @@
 package Ch01;
 
-public class Practice {
+public class JavaPractice {
 
 	public static void main(String[] args) {
-		System.out.println("hacking. . .");
+	System.out.println("good");
 
 	}
 

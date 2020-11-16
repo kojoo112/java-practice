@@ -19,6 +19,6 @@ public class Variable1 {
 		int num1 = 10; // 변수를 선언하고 초기값을 설정.
 		int num2 = 20;
 		int sum = num1 + num2;
-		System.out.println("두 수의 합 : "+num1+" + "+num2+" = " +sum);
+		System.out.println("두 수의 합 : " + num1 + " + " + num2 + " = " + sum);
 	}
 }

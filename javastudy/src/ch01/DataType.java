@@ -26,17 +26,16 @@ public class DataType {
 		int i1 = 245;
 		long l1 = 324L; // long에는 int와 구별하기 위해 'L' 또는 'l'을 사용
 		long l2 = 76300l;
-		
+
 		// 실수형
-		float f1 = 23.5f;	// double과 구분하기 위해 'F' 또는 'f'을 사용
+		float f1 = 23.5f; // double과 구분하기 위해 'F' 또는 'f'을 사용
 		float f2 = 8E7f;
 		double d1 = 3.32E-34;
 		double d2 = 3.14159265;
-		
+
 		// 논리형
 		boolean flag = true;
 		boolean flag2 = false;
 	}
 
-	
 }

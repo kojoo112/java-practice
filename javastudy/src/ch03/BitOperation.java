@@ -4,8 +4,8 @@ package ch03;
  *	~(NOT) &(AND) |(OR) ^(NOR) 
  *  int : 32비트
  *   						
- */  
- 
+ */
+
 public class BitOperation {
 
 	public static void main(String[] args) {
