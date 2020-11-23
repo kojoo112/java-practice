@@ -6,8 +6,8 @@ public class Car {
 	int speed;
 	String model;
 	int gas;	// 가솔린
-	Handle handle;
-	Tire tire;
+//	Handle handle;
+//	Tire tire;
 	// 메소드 : 동작이나 기능
 	
 	/* 사람을 싣는다.
