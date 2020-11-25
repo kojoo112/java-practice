@@ -12,7 +12,7 @@ public class ClassA {
 	protected String prot1;
 	int def1;	// default
 	private int pri1;
-	
+
 	
 	
 	// 메소드
