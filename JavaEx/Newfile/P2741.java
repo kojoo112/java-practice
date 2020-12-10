@@ -9,7 +9,6 @@ public class P2741 {
 		
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();
-		
 		for(int i = 0; i < a; i++) {
 			System.out.println(a - i);
 		}

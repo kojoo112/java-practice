@@ -6,12 +6,10 @@ public class Ex {
 		Ex e = new Ex();
 		int a = 20;
 		int b = 30;
+		
 	    e.sum(a,b);
 	    System.out.println(sum1(a,b));
 		
-	}
-	public Ex() {
-		// TODO Auto-generated constructor stub
 	}
 	
 	public void sum(int x , int y) {

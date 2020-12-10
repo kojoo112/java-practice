@@ -20,6 +20,10 @@ public class BookEx {
 		BookUDDT b4 = new BookUDDT(25000, "자바 스크립트2");
 		System.out.println(b4.title);
 		System.out.println(b4.price);
+		
+		
+		
+		
 	}
 
 }
